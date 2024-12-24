@@ -1,0 +1,6 @@
+nltk==3.9.1
+matplotlib==3.9.2
+pathlib==1.0.1
+pandas==2.2.3
+scikit-learn==1.5.2
+beautifulsoup4==4.12.3
